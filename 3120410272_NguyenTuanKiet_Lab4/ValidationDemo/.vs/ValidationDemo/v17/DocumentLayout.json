@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\myblue\\Desktop\\.NET\\3120410272_NguyenTuanKiet_Lab4\\ValidationDemo\\",
+  "WorkspaceRootPath": "C:\\Users\\kinhc\\Documents\\Asp.Net-Core-\\3120410272_NguyenTuanKiet_Lab4\\ValidationDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E5F9C92-5F09-4426-83E6-D13014915A4D}|ValidationDemo\\ValidationDemo.csproj|c:\\users\\myblue\\desktop\\.net\\3120410272_nguyentuankiet_lab4\\validationdemo\\validationdemo\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E5F9C92-5F09-4426-83E6-D13014915A4D}|ValidationDemo\\ValidationDemo.csproj|c:\\users\\kinhc\\documents\\asp.net-core-\\3120410272_nguyentuankiet_lab4\\validationdemo\\validationdemo\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E5F9C92-5F09-4426-83E6-D13014915A4D}|ValidationDemo\\ValidationDemo.csproj|solutionrelative:validationdemo\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E5F9C92-5F09-4426-83E6-D13014915A4D}|ValidationDemo\\ValidationDemo.csproj|c:\\users\\myblue\\desktop\\.net\\3120410272_nguyentuankiet_lab4\\validationdemo\\validationdemo\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E5F9C92-5F09-4426-83E6-D13014915A4D}|ValidationDemo\\ValidationDemo.csproj|c:\\users\\kinhc\\documents\\asp.net-core-\\3120410272_nguyentuankiet_lab4\\validationdemo\\validationdemo\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E5F9C92-5F09-4426-83E6-D13014915A4D}|ValidationDemo\\ValidationDemo.csproj|solutionrelative:validationdemo\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E5F9C92-5F09-4426-83E6-D13014915A4D}|ValidationDemo\\ValidationDemo.csproj|c:\\users\\myblue\\desktop\\.net\\3120410272_nguyentuankiet_lab4\\validationdemo\\validationdemo\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7E5F9C92-5F09-4426-83E6-D13014915A4D}|ValidationDemo\\ValidationDemo.csproj|c:\\users\\kinhc\\documents\\asp.net-core-\\3120410272_nguyentuankiet_lab4\\validationdemo\\validationdemo\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7E5F9C92-5F09-4426-83E6-D13014915A4D}|ValidationDemo\\ValidationDemo.csproj|solutionrelative:validationdemo\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E5F9C92-5F09-4426-83E6-D13014915A4D}|ValidationDemo\\ValidationDemo.csproj|c:\\users\\myblue\\desktop\\.net\\3120410272_nguyentuankiet_lab4\\validationdemo\\validationdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7E5F9C92-5F09-4426-83E6-D13014915A4D}|ValidationDemo\\ValidationDemo.csproj|c:\\users\\kinhc\\documents\\asp.net-core-\\3120410272_nguyentuankiet_lab4\\validationdemo\\validationdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7E5F9C92-5F09-4426-83E6-D13014915A4D}|ValidationDemo\\ValidationDemo.csproj|solutionrelative:validationdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -32,9 +32,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\myblue\\Desktop\\.NET\\3120410272_NguyenTuanKiet_Lab4\\ValidationDemo\\ValidationDemo\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kinhc\\Documents\\Asp.Net-Core-\\3120410272_NguyenTuanKiet_Lab4\\ValidationDemo\\ValidationDemo\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ValidationDemo\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\myblue\\Desktop\\.NET\\3120410272_NguyenTuanKiet_Lab4\\ValidationDemo\\ValidationDemo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\kinhc\\Documents\\Asp.Net-Core-\\3120410272_NguyenTuanKiet_Lab4\\ValidationDemo\\ValidationDemo\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ValidationDemo\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAwBYAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -44,9 +44,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\myblue\\Desktop\\.NET\\3120410272_NguyenTuanKiet_Lab4\\ValidationDemo\\ValidationDemo\\Views\\Student\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\kinhc\\Documents\\Asp.Net-Core-\\3120410272_NguyenTuanKiet_Lab4\\ValidationDemo\\ValidationDemo\\Views\\Student\\Create.cshtml",
               "RelativeDocumentMoniker": "ValidationDemo\\Views\\Student\\Create.cshtml",
-              "ToolTip": "C:\\Users\\myblue\\Desktop\\.NET\\3120410272_NguyenTuanKiet_Lab4\\ValidationDemo\\ValidationDemo\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\kinhc\\Documents\\Asp.Net-Core-\\3120410272_NguyenTuanKiet_Lab4\\ValidationDemo\\ValidationDemo\\Views\\Student\\Create.cshtml",
               "RelativeToolTip": "ValidationDemo\\Views\\Student\\Create.cshtml",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAACwAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -56,24 +56,23 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\Users\\myblue\\Desktop\\.NET\\3120410272_NguyenTuanKiet_Lab4\\ValidationDemo\\ValidationDemo\\Controllers\\StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\kinhc\\Documents\\Asp.Net-Core-\\3120410272_NguyenTuanKiet_Lab4\\ValidationDemo\\ValidationDemo\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "ValidationDemo\\Controllers\\StudentController.cs",
-              "ToolTip": "C:\\Users\\myblue\\Desktop\\.NET\\3120410272_NguyenTuanKiet_Lab4\\ValidationDemo\\ValidationDemo\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\kinhc\\Documents\\Asp.Net-Core-\\3120410272_NguyenTuanKiet_Lab4\\ValidationDemo\\ValidationDemo\\Controllers\\StudentController.cs",
               "RelativeToolTip": "ValidationDemo\\Controllers\\StudentController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T08:40:50.672Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T08:40:50.672Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Students.cs",
-              "DocumentMoniker": "C:\\Users\\myblue\\Desktop\\.NET\\3120410272_NguyenTuanKiet_Lab4\\ValidationDemo\\ValidationDemo\\Models\\Students.cs",
+              "DocumentMoniker": "C:\\Users\\kinhc\\Documents\\Asp.Net-Core-\\3120410272_NguyenTuanKiet_Lab4\\ValidationDemo\\ValidationDemo\\Models\\Students.cs",
               "RelativeDocumentMoniker": "ValidationDemo\\Models\\Students.cs",
-              "ToolTip": "C:\\Users\\myblue\\Desktop\\.NET\\3120410272_NguyenTuanKiet_Lab4\\ValidationDemo\\ValidationDemo\\Models\\Students.cs",
+              "ToolTip": "C:\\Users\\kinhc\\Documents\\Asp.Net-Core-\\3120410272_NguyenTuanKiet_Lab4\\ValidationDemo\\ValidationDemo\\Models\\Students.cs",
               "RelativeToolTip": "ValidationDemo\\Models\\Students.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T08:32:16.041Z",
               "EditorCaption": ""

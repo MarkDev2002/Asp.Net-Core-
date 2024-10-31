@@ -17,12 +17,8 @@ namespace EntityDemo.Models
         public DateTime? CreatedOn { get; set; }
         public bool IsActive { get; set; }
         public string Description { get; set; }
-
-        // Foreign Key
         public int GenreId { get; set; }
         public Genre Genre { get; set; }
-
-        // Relationship
         public ICollection<BookCatalogue> BookCatalogues { get; set; }
         public ICollection<BookImages> BookImages { get; set; }
     }

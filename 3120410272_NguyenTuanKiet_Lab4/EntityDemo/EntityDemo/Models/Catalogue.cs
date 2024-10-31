@@ -11,8 +11,6 @@ namespace EntityDemo.Models
         public string Title { get; set; }
         public string Description { get; set; }
         public bool IsActive { get; set; }
-
-        // Relationship
         public ICollection<BookCatalogue> BookCatalogues { get; set; }
     }
 }

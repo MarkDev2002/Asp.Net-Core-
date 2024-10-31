@@ -9,8 +9,6 @@ namespace EntityDemo.Models
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
         public string Name { get; set; }
-
-        // Foreign Key
         public int BookId { get; set; }
         public virtual Book Book { get; set; }
     }

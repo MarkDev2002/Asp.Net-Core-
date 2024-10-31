@@ -12,8 +12,6 @@ namespace EntityDemo.Models
         public int? Quantity { get; set; }
         public decimal? Discount { get; set; }
         public string Description { get; set; }
-
-        // Foreign Keys
         public int CartId { get; set; }
         public Cart Cart { get; set; }
 

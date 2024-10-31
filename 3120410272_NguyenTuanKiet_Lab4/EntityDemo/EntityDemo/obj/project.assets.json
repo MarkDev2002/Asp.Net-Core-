@@ -7716,19 +7716,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\myblue\\.nuget\\packages\\": {}
+    "C:\\Users\\kinhc\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\myblue\\Desktop\\.NET\\3120410272_NguyenTuanKiet_Lab4\\EntityDemo\\EntityDemo\\EntityDemo.csproj",
+      "projectUniqueName": "C:\\Users\\kinhc\\Documents\\Asp.Net-Core-\\3120410272_NguyenTuanKiet_Lab4\\EntityDemo\\EntityDemo\\EntityDemo.csproj",
       "projectName": "EntityDemo",
-      "projectPath": "C:\\Users\\myblue\\Desktop\\.NET\\3120410272_NguyenTuanKiet_Lab4\\EntityDemo\\EntityDemo\\EntityDemo.csproj",
-      "packagesPath": "C:\\Users\\myblue\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\myblue\\Desktop\\.NET\\3120410272_NguyenTuanKiet_Lab4\\EntityDemo\\EntityDemo\\obj\\",
+      "projectPath": "C:\\Users\\kinhc\\Documents\\Asp.Net-Core-\\3120410272_NguyenTuanKiet_Lab4\\EntityDemo\\EntityDemo\\EntityDemo.csproj",
+      "packagesPath": "C:\\Users\\kinhc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kinhc\\Documents\\Asp.Net-Core-\\3120410272_NguyenTuanKiet_Lab4\\EntityDemo\\EntityDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\myblue\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kinhc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

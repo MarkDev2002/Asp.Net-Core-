@@ -16,8 +16,6 @@ namespace EntityDemo.Models
         [ForeignKey("UserAddress")]
         public int? AddressId { get; set; }
         public string Status { get; set; }
-
-        // Relationship
         public ICollection<OrderDetail> OrderDetails { get; set; }
         public virtual UserAddress UserAddress { get; set; }
     }

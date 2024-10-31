@@ -13,8 +13,6 @@ namespace EntityDemo.Models
         public string Status { get; set; }
         public bool IsActive { get; set; }
         public DateTime? CreatedOn { get; set; }
-
-        // Relationship
         public ICollection<CartDetail> CartDetails { get; set; }
     }
 }

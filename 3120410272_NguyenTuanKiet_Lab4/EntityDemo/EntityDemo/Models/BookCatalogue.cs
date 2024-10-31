@@ -10,8 +10,6 @@ namespace EntityDemo.Models
         public int Id { get; set; }
         public DateTime? CreatedOn { get; set; }
         public bool IsActive { get; set; }
-
-        // Foreign Keys
         public int BookId { get; set; }
         public Book Book { get; set; }
 

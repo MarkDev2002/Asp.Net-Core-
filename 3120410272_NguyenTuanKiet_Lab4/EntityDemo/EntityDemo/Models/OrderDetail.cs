@@ -12,8 +12,6 @@ namespace EntityDemo.Models
         public int Quantity { get; set; }
         public decimal? UnitPrice { get; set; }
         public bool IsActive { get; set; }
-
-        // Foreign Key
         public int OrderId { get; set; }
         public Order Order { get; set; }
     }

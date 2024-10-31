@@ -1,22 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\myblue\\Desktop\\.NET\\3120410272_NguyenTuanKiet_Lab4\\EntityDemo\\",
+  "WorkspaceRootPath": "C:\\Users\\kinhc\\Documents\\Asp.Net-Core-\\3120410272_NguyenTuanKiet_Lab4\\EntityDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78B66717-256B-4A3B-8699-2C35CC44D64D}|EntityDemo\\EntityDemo.csproj|c:\\users\\myblue\\desktop\\.net\\3120410272_nguyentuankiet_lab4\\entitydemo\\entitydemo\\controllers\\bookimagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78B66717-256B-4A3B-8699-2C35CC44D64D}|EntityDemo\\EntityDemo.csproj|solutionrelative:entitydemo\\controllers\\bookimagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78B66717-256B-4A3B-8699-2C35CC44D64D}|EntityDemo\\EntityDemo.csproj|c:\\users\\kinhc\\documents\\asp.net-core-\\3120410272_nguyentuankiet_lab4\\entitydemo\\entitydemo\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B66717-256B-4A3B-8699-2C35CC44D64D}|EntityDemo\\EntityDemo.csproj|solutionrelative:entitydemo\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78B66717-256B-4A3B-8699-2C35CC44D64D}|EntityDemo\\EntityDemo.csproj|c:\\users\\myblue\\desktop\\.net\\3120410272_nguyentuankiet_lab4\\entitydemo\\entitydemo\\views\\bookimages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{78B66717-256B-4A3B-8699-2C35CC44D64D}|EntityDemo\\EntityDemo.csproj|solutionrelative:entitydemo\\views\\bookimages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78B66717-256B-4A3B-8699-2C35CC44D64D}|EntityDemo\\EntityDemo.csproj|c:\\users\\myblue\\desktop\\.net\\3120410272_nguyentuankiet_lab4\\entitydemo\\entitydemo\\views\\bookimages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{78B66717-256B-4A3B-8699-2C35CC44D64D}|EntityDemo\\EntityDemo.csproj|solutionrelative:entitydemo\\views\\bookimages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78B66717-256B-4A3B-8699-2C35CC44D64D}|EntityDemo\\EntityDemo.csproj|c:\\users\\myblue\\desktop\\.net\\3120410272_nguyentuankiet_lab4\\entitydemo\\entitydemo\\views\\bookimages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{78B66717-256B-4A3B-8699-2C35CC44D64D}|EntityDemo\\EntityDemo.csproj|solutionrelative:entitydemo\\views\\bookimages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{78B66717-256B-4A3B-8699-2C35CC44D64D}|EntityDemo\\EntityDemo.csproj|c:\\users\\kinhc\\documents\\asp.net-core-\\3120410272_nguyentuankiet_lab4\\entitydemo\\entitydemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B66717-256B-4A3B-8699-2C35CC44D64D}|EntityDemo\\EntityDemo.csproj|solutionrelative:entitydemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,55 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\myblue\\Desktop\\.NET\\3120410272_NguyenTuanKiet_Lab4\\EntityDemo\\EntityDemo\\Views\\BookImages\\Delete.cshtml",
-              "RelativeDocumentMoniker": "EntityDemo\\Views\\BookImages\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\myblue\\Desktop\\.NET\\3120410272_NguyenTuanKiet_Lab4\\EntityDemo\\EntityDemo\\Views\\BookImages\\Delete.cshtml",
-              "RelativeToolTip": "EntityDemo\\Views\\BookImages\\Delete.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-17T03:47:15.407Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\myblue\\Desktop\\.NET\\3120410272_NguyenTuanKiet_Lab4\\EntityDemo\\EntityDemo\\Views\\BookImages\\Edit.cshtml",
-              "RelativeDocumentMoniker": "EntityDemo\\Views\\BookImages\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\myblue\\Desktop\\.NET\\3120410272_NguyenTuanKiet_Lab4\\EntityDemo\\EntityDemo\\Views\\BookImages\\Edit.cshtml",
-              "RelativeToolTip": "EntityDemo\\Views\\BookImages\\Edit.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-17T03:45:52.906Z"
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kinhc\\Documents\\Asp.Net-Core-\\3120410272_NguyenTuanKiet_Lab4\\EntityDemo\\EntityDemo\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EntityDemo\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\kinhc\\Documents\\Asp.Net-Core-\\3120410272_NguyenTuanKiet_Lab4\\EntityDemo\\EntityDemo\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EntityDemo\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA9wAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:25:06.112Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\myblue\\Desktop\\.NET\\3120410272_NguyenTuanKiet_Lab4\\EntityDemo\\EntityDemo\\Views\\BookImages\\Create.cshtml",
-              "RelativeDocumentMoniker": "EntityDemo\\Views\\BookImages\\Create.cshtml",
-              "ToolTip": "C:\\Users\\myblue\\Desktop\\.NET\\3120410272_NguyenTuanKiet_Lab4\\EntityDemo\\EntityDemo\\Views\\BookImages\\Create.cshtml",
-              "RelativeToolTip": "EntityDemo\\Views\\BookImages\\Create.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-17T03:45:04.005Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BookImagesController.cs",
-              "DocumentMoniker": "C:\\Users\\myblue\\Desktop\\.NET\\3120410272_NguyenTuanKiet_Lab4\\EntityDemo\\EntityDemo\\Controllers\\BookImagesController.cs",
-              "RelativeDocumentMoniker": "EntityDemo\\Controllers\\BookImagesController.cs",
-              "ToolTip": "C:\\Users\\myblue\\Desktop\\.NET\\3120410272_NguyenTuanKiet_Lab4\\EntityDemo\\EntityDemo\\Controllers\\BookImagesController.cs",
-              "RelativeToolTip": "EntityDemo\\Controllers\\BookImagesController.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAiwE4AAAAkAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kinhc\\Documents\\Asp.Net-Core-\\3120410272_NguyenTuanKiet_Lab4\\EntityDemo\\EntityDemo\\Program.cs",
+              "RelativeDocumentMoniker": "EntityDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\kinhc\\Documents\\Asp.Net-Core-\\3120410272_NguyenTuanKiet_Lab4\\EntityDemo\\EntityDemo\\Program.cs",
+              "RelativeToolTip": "EntityDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T03:35:56.103Z",
+              "WhenOpened": "2024-10-31T07:24:32.096Z",
               "EditorCaption": ""
             }
           ]
